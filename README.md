@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter - Video App Clone
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
